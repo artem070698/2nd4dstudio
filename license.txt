@@ -1,0 +1,11 @@
+Model Information:
+* title:	Projeto estrutural de residência A.R.M.P.
+* source:	https://sketchfab.com/3d-models/projeto-estrutural-de-residencia-armp-2b2af94092ad4293a0fc342e72963003
+* author:	fausengenharia (https://sketchfab.com/fausengenharia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Projeto estrutural de residência A.R.M.P." (https://sketchfab.com/3d-models/projeto-estrutural-de-residencia-armp-2b2af94092ad4293a0fc342e72963003) by fausengenharia (https://sketchfab.com/fausengenharia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
